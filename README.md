@@ -2,7 +2,7 @@
 
 Credit goes to **mcasoo** from discord.
 
-## Update (20.04.25
+## Update (20.04.25)
 >  I managed to kill analog stick input, and updated the dtb for D28S. no need to set deadzone max any longer.
 > * flash ArkOS for U8
 > * overwrite dtb with this one
